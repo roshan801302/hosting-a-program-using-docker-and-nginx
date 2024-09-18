@@ -68,3 +68,4 @@ Then connect the file to instance:
 ```bash
 docker run --name docker-nginx -p 80:80 -d -v ~/docker-nginx/html:/usr/share/nginx/html nginx
 ```
+## it will run other wise you make some correction in program. so, you need to recheck the program.
